@@ -20,16 +20,4 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/Hafsah-mahmood/](https://www.linkedin.com/in/Hafsah-mahmood/)
 
 
-## ✨GitHub Stats  : 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=qasim162000&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim162000&theme=tokyonight" />
-</div>
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsah02&theme=tokyonight" />
-</div>
-<div align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hafsah02&theme=tokyonight" />
-</div>
 
-<br/>
